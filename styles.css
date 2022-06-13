@@ -1,0 +1,36 @@
+body {
+  font-family: Calibri, sans-serif;
+  font-size: 1.25rem;
+}
+#img-div{
+	margin: 0;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+h2, #title, #img-caption, #tribute-footer {
+  text-align: center;
+}
+
+#title, #tribute-info{
+padding: 10px;
+margin: 10px;
+background-color: #EEEEEE;
+}
+
+ul, #tribute-testimonials {
+  margin: 0 auto 50px auto;
+  max-width: 500px;
+}
+
+li {
+  padding: 10px;
+}
+
+#img-caption {
+margin: 10px 40px; font-size: 1rem;
+}
